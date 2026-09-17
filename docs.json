@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Delegic",
-  "description": "Cómo funciona Delegic: los trabajadores de IA para empresas de mantenimiento, clima e instalaciones, sus salvaguardas, el estado del producto y lo que viene.",
+  "description": "Documentación de Delegic.",
   "colors": {
     "primary": "#353bed",
     "light": "#6b70ff",
@@ -36,38 +36,7 @@
           {
             "group": "Empezar",
             "pages": [
-              "introduccion",
-              "como-funciona",
-              "empezar"
-            ]
-          },
-          {
-            "group": "Trabajadores",
-            "pages": [
-              "trabajadores/fuera-de-horario",
-              "trabajadores/captacion",
-              "trabajadores/cobros"
-            ]
-          },
-          {
-            "group": "Confianza",
-            "pages": [
-              "confianza/salvaguardas",
-              "confianza/datos"
-            ]
-          },
-          {
-            "group": "Producto",
-            "pages": [
-              "producto/estado",
-              "producto/backlog",
-              "producto/novedades"
-            ]
-          },
-          {
-            "group": "Más",
-            "pages": [
-              "faq"
+              "introduccion"
             ]
           }
         ]

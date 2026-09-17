@@ -6,4 +6,4 @@ Documentación pública de Delegic, publicada con Mintlify en docs.delegic.com.
 - Comprobar antes de subir: `npx -p node@22 -p mint mint validate` y `mint broken-links`
 - Cada push a `main` se publica solo.
 
-Reglas: sin cifras inventadas; lo que es demo se dice; sin nombres de proveedores de voz o modelos; backlog sin fechas comprometidas.
+Reglas: solo lo que existe; se rellena a medida que el producto esté disponible.
